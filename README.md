@@ -4,7 +4,9 @@ Professional 3D Network Diagram Symbols designed for Network Engineers, Cloud Ar
 
 This repository showcases our free starter collection of professionally designed 3D network symbols, sample network diagrams, and documentation resources for creating modern enterprise infrastructure designs.
 
-![3D Network Symbols](images/3D-Network%20Symbols-Pack-Free.jpg)
+<p align="center">
+  <img src="images/3D-Network%20Symbols-Pack-Free.jpg" width="100%">
+</p>
 
 ## Compatible With
 
