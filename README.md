@@ -1,8 +1,15 @@
 # 3D Network Symbols Free
 
-Professional 3D Network Diagram Symbols for Network Engineers, Cloud Architects and IT Professionals.
+Professional 3D Network Diagram Symbols designed for Network Engineers, Cloud Architects, System Administrators, and IT Professionals.
 
-This repository showcases free resources, example network diagrams, and a starter icon pack from 3D-Networking.com.
+This repository showcases our free starter collection of professionally designed 3D network symbols, sample network diagrams, and documentation resources for creating modern enterprise infrastructure designs.
 
-Website:
-https://3d-networking.com
+## Compatible With
+
+- Microsoft Visio
+- Draw.io (diagrams.net)
+- Lucidchart
+- Microsoft PowerPoint
+- Adobe Illustrator
+- Figma
+**Website:** https://3d-networking.com
