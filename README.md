@@ -10,11 +10,12 @@ Looking for enterprise-ready network diagram resources?
 
 ✔ Premium 3D Icon Libraries
 ✔ Enterprise Network Diagram Templates
-✔ Cisco, AWS, Azure & VMware Collections
-✔ Draw.io & Microsoft Visio Templates
+✔ Cisco, AWS, Collections
+✔ Microsoft Visio Templates
 ✔ Step-by-Step Video Tutorials
 
-🌐 https://3d-networking.com
+https://3d-networking.com
+https://www.youtube.com/@3dnetworking
 
 <p align="center">
   <img src="images/3D-Network%20Symbols-Pack-Free.jpg" width="100%">
