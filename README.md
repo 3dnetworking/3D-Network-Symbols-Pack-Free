@@ -14,8 +14,9 @@ Looking for enterprise-ready network diagram resources?
 ✔ Microsoft Visio Templates
 ✔ Step-by-Step Video Tutorials
 
-https://3d-networking.com
+🌐 Website: https://3d-networking.com
 
+📺 YouTube Tutorials:
 https://www.youtube.com/@3dnetworking
 
 <p align="center">
